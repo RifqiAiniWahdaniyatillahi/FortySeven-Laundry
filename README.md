@@ -25,7 +25,7 @@ The technologies used in this project can be documented further based on the sou
 
 ## Website Preview
 
-![FortySeven Laundry Website Preview](home.png)
+![FortySeven Laundry Website Preview](laundry.png)
 
 ## Team Collaboration
 
